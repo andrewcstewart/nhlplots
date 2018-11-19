@@ -15,5 +15,6 @@ Iports:
   ggimage,
   colorr
 VignetteBuilder: knitr  
-Suggests: knitr,
-    rmarkdown
+Suggests: 
+  knitr,
+  rmarkdown
