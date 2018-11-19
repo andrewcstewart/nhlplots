@@ -1,0 +1,19 @@
+Package: nhlplots
+Type: Package
+Title: Plot NHL data.
+Version: 0.1.0
+Author: Andrew Stewart
+Maintainer: Andrew Stewart <andrew.c.stewart@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Iports:
+  tidyverse,
+  ggplot2,
+  ggimage,
+  colorr
+VignetteBuilder: knitr  
+Suggests: knitr,
+    rmarkdown
